@@ -27,3 +27,6 @@ https://www.kaggle.com/learn/certification/lihonggen/intro-to-deep-learning
 - Machine Learning Explainability
 https://www.kaggle.com/learn/machine-learning-explainability
 https://www.kaggle.com/learn/certification/lihonggen/machine-learning-explainability
+
+##Usage
+If you want to see the exercises answer only for the course please open the .md file
